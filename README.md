@@ -55,7 +55,7 @@ Initially the app will start as a search for homeless shelters and basic resourc
 ## Resources 
 Google Key API: https://console.cloud.google.com/
 
-Shelter API: https://opendata.dc.gov/datasets/homeless-shelter-locations/api
+Shelter API: https://geohub.lacity.org/datasets/lacounty::homeless-shelters-and-services/api
 
 
 ## Architechture
