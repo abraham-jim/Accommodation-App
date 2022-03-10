@@ -63,7 +63,7 @@ class AddHappyPlaceActivity : AppCompatActivity(), View.OnClickListener {
 
     private var mHappyPlaceDetails: HappyPlaceModel? = null
 
-    private lateinit var mFusedLocationClient: FusedLocationProviderClient // A fused location client variable which is further user to get the user's current location
+    private lateinit var mFusedLocationClient: FusedLocationProviderClient // A fused location client variable which is further used to get the user's current location
 
     /**
      * This function is auto created by Android when the Activity Class is created.

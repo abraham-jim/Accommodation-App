@@ -48,7 +48,8 @@
                     android:inputType="textCapWords"
                     android:textColor="@color/primary_text_color"
                     android:textColorHint="@color/secondary_text_color"
-                    android:textSize="@dimen/edit_text_text_size" />
+                    android:textSize="@dimen/edit_text_text_size"
+                    tools:ignore="SpeakableTextPresentCheck" />
             </com.google.android.material.textfield.TextInputLayout>
 
             <com.google.android.material.textfield.TextInputLayout
