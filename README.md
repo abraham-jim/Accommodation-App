@@ -1,7 +1,12 @@
 # Accommodations App
-[Application Pitchdeck Link](https://www.canva.com/design/DAE10qHFRqg/GiYz2sST9doFQ1Z8DedP9A/view?utm_content=DAE10qHFRqg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
 
 https://user-images.githubusercontent.com/73762759/172766197-6aabbcfe-247d-44ea-86f5-55296fd49171.mp4
+
+[Application Pitchdeck Link](https://www.canva.com/design/DAE10qHFRqg/GiYz2sST9doFQ1Z8DedP9A/view?utm_content=DAE10qHFRqg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
+
+ ![Accom-app-gitpng](https://user-images.githubusercontent.com/73762759/162871492-001e4efb-369c-4750-a9e9-2f30319db8f1.png)
 
 
 ## Overview/Reason 
