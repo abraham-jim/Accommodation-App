@@ -1,0 +1,1367 @@
+[
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.0452189665425,
+                "lng": -118.24315205654943
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.045219,
+                    "lng": -118.243152
+                },
+                "southwest": {
+                    "lat": 34.045219,
+                    "lng": -118.243152
+                }
+            }
+        },
+        "name": "Special Service For Groups -  Project 180",
+        "rating": 4.2,
+        "vicinity": "420 S. San Pedro, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.03745995,
+                "lng": -118.3175215
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.037459916947405,
+                    "lng": -118.31752155639184
+                },
+                "southwest": {
+                    "lat": 34.037459916947405,
+                    "lng": -118.31752155639184
+                }
+            }
+        },
+        "name": "1736 Family Crisis Center",
+        "rating": 4.5,
+        "vicinity": "2116 Arlington Ave, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":  33.866842,
+                "lng":-118.399235
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.86684196696515,
+                    "lng": -118.39923505632768
+                },
+                "southwest": {
+                    "lat": 33.86684196696515,
+                    "lng": -118.39923505632768
+                }
+            }
+        },
+        "name": "1736 Family Crisis Center - Emergency Youth Shelter",
+        "rating": 4,
+        "vicinity": "1736 Monterey Blvd, Hermosa Beach"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.145581,
+                "lng": -118.001196
+            },
+            "viewport": {
+                "northeast": {
+                    "lat":  34.1455809672887,
+                    "lng": -118.00119605686487
+                },
+                "southwest": {
+                    "lat":  34.1455809672887,
+                    "lng":-118.00119605686487
+                }
+            }
+        },
+        "name": "Santa Anita Family Service",
+        "rating": 4.1,
+        "vicinity": "605 S. Myrtle Ave, Monrovia"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":34.10246354,
+                "lng": -118.0975893
+            },
+            "viewport": {
+                "northeast": {
+                    "lat":  34.1024635070498,
+                    "lng": -118.0975893571127
+                },
+                "southwest": {
+                    "lat":  34.1024635070498,
+                    "lng": -118.0975893571127
+                }
+            }
+        },
+        "name": "Santa Anita Family Service - San Gabriel",
+        "rating": 4.7,
+        "vicinity": "206 E Las  Tunas Dr,San Gabriel "
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.101823,
+                "lng": -118.321473
+            },
+            "viewport": {
+                "northeast": {
+                    "lat":  34.1018229667541,
+                    "lng": -118.32147305580293
+                },
+                "southwest": {
+                    "lat":  34.1018229667541,
+                    "lng": -118.32147305580293
+                }
+            }
+        },
+        "name": "Children's Hospital Los Angeles ",
+        "rating": 4.5,
+        "vicinity": "6043 Hollywood Blvd, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.09787921,
+                "lng": -118.2984449
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.097879176532274,
+                    "lng": -118.2984449559496
+                },
+                "southwest": {
+                    "lat": 34.097879176532274,
+                    "lng": -118.2984449559496
+                }
+            }
+        },
+        "name": "Children's Hospital Los Angeles - High Risk Youth Program",
+        "rating": 4.8,
+        "vicinity": "5000 W Sunset Blvd, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.05281504,
+                "lng": -118.3237936
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.05281500657335,
+                    "lng": -118.32379365624385
+                },
+                "southwest": {
+                    "lat": 34.05281500657335,
+                    "lng": -118.32379365624385
+                }
+            }
+        },
+        "name": "Center For The Pacific Asian Family Inc",
+        "rating": 4.4,
+        "vicinity": "1102 Crenshaw Blvd, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.101863,
+                "lng": -118.319256
+            },
+            "viewport": {
+                "northeast": {
+                    "lat":  34.10186296678064,
+                    "lng": -118.31925605584092
+                },
+                "southwest": {
+                    "lat":  34.10186296678064,
+                    "lng": -118.31925605584092
+                }
+            }
+        },
+        "name": "Salvation Army - The Way In",
+        "rating": 4.8,
+        "vicinity": "5939 Hollywood Blvd, Hollywood"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.69788341,
+                "lng": -118.1384319
+            },
+            "viewport": {
+                "northeast": {
+                    "lat":  34.697883375673776,
+                    "lng":-118.13843195691504
+                },
+                "southwest": {
+                    "lat":  34.697883375673776,
+                    "lng": -118.13843195691504
+                }
+            }
+        },
+        "name": "Catalyst Foundation ",
+        "rating": 4.2,
+        "vicinity": "540 W Lancaster Blvd, Lancaster"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.149138,
+                "lng": -118.437066
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.149137966815516,
+                    "lng": -118.43706605636933
+                },
+                "southwest": {
+                    "lat": 34.149137966815516,
+                    "lng": -118.43706605636933
+                }
+            }
+        },
+        "name":  "Jewish Family Service Of Los Angeles - Family Violence Project",
+        "rating": 4.8,
+        "vicinity": "13949 Ventura Blvd, Sherman Oaks"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.181243,
+                "lng": -118.306259
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.18124296690372,
+                    "lng": -118.3062590566876
+                },
+                "southwest": {
+                    "lat": 34.18124296690372,
+                    "lng": -118.3062590566876
+                }
+            }
+        },
+        "name": "Salvation Army Corps Community Center - Burbank",
+        "rating": 4.7,
+        "vicinity": "300 E. Angeleno, Burbank"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.08552,
+                "lng": -118.02956405702027
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.085519966960206,
+                    "lng": -118.02956405702027
+                },
+                "southwest": {
+                    "lat": 34.085519966960206,
+                    "lng": -118.02956405702027
+                }
+            }
+        },
+        "name": "Our Saviour Center",
+        "rating": 4.7,
+        "vicinity": "4368 Santa Anita Ave, El Monte"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":  34.042306,
+                "lng": -118.246748
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.042305967003585,
+                    "lng": -118.24674805597549
+                },
+                "southwest": {
+                    "lat": 34.042305967003585,
+                    "lng": -118.24674805597549
+                }
+            }
+        },
+        "name": "Lamp Community - Frank Rice Access Center",
+        "rating": 4.2,
+        "vicinity": "627 San Julian St, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 33.97583807,
+                "lng":  -118.0335874
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.97583803757941,
+                    "lng": -118.03358745689889
+                },
+                "southwest": {
+                    "lat":33.97583803757941,
+                    "lng": -118.03358745689889
+                }
+            }
+        },
+        "name": "Women's And Children's Crisis Shelter",
+        "rating": 4.7,
+        "vicinity": "13305 Penn St, Whittier"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":  34.06798248,
+                "lng": -118.2738302
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.06798244669393,
+                    "lng": -118.27383025595027
+                },
+                "southwest": {
+                    "lat": 34.06798244669393,
+                    "lng": -118.27383025595027
+                }
+            }
+        },
+        "name": "Homeless Health Care Los Angeles",
+        "rating": 4.3,
+        "vicinity": "2330 Beverly Blvd, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.04338459,
+                "lng": -118.2441901
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.04338455689102,
+                    "lng": -118.24419015580388
+                },
+                "southwest": {
+                    "lat":34.04338455689102,
+                    "lng": -118.24419015580388
+                }
+            }
+        },
+        "name": "Lamp Community",
+        "rating": 4.8,
+        "vicinity": "526 S San Pedro St, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.15745402,
+                "lng": -118.1419479
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.15745398642227,
+                    "lng": -118.14194795649769
+                },
+                "southwest": {
+                    "lat": 34.15745398642227,
+                    "lng": -118.14194795649769
+                }
+            }
+        },
+        "name": "Door Of Hope",
+        "rating": 4.7,
+        "vicinity": "669 N. Los Robles Ave, Pasadena"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.02106891,
+                "lng": -118.1865446
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.0210688766994,
+                    "lng": -118.18654465609141
+                },
+                "southwest": {
+                    "lat": 34.0210688766994,
+                    "lng": -118.18654465609141
+                }
+            }
+        },
+        "name": "Scadp - Casa Libre Residential Services",
+        "rating": 4.4,
+        "vicinity": "1055 S. Eastman Ave, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 33.73937844,
+                "lng": -118.2880817
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.73937840771651,
+                    "lng": -118.28808175541279
+                },
+                "southwest": {
+                    "lat": 33.73937840771651,
+                    "lng": -118.28808175541279
+                }
+            }
+        },
+        "name": "Wecan House",
+        "rating": 4.1,
+        "vicinity": "505 S. Pacific Ave, San Pedro"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.14985049,
+                "lng": -118.124649
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.149850456680774,
+                    "lng": -118.12464905654582
+                },
+                "southwest": {
+                    "lat": 34.149850456680774,
+                    "lng": -118.12464905654582
+                }
+            }
+        },
+        "name": "Serra Project",
+        "rating": 4.8,
+        "vicinity": "1245 E. Walnut St, Pasadena"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 33.89643599,
+                "lng": -118.1927356
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.89643595757227,
+                    "lng": -118.19273565682055
+                },
+                "southwest": {
+                    "lat": 33.89643595757227,
+                    "lng": -118.19273565682055
+                }
+            }
+        },
+        "name": "Homeless Shelter For Women And Children",
+        "rating": 4.6,
+        "vicinity": "4513 E. Compton Blvd, Compton"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.16927385,
+                "lng": -118.1360999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 4.16927381641502,
+                    "lng": -118.13609995620679
+                },
+                "southwest": {
+                    "lat": 4.16927381641502,
+                    "lng": -118.13609995620679
+                }
+            }
+        },
+        "name": "Urdc Human Services Corporation - Casa Maria",
+        "rating": 2.8,
+        "vicinity": "691 E. Washington Blvd, Pasadena"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":34.02738892,
+                "lng": -118.4937729
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.02738888655895,
+                    "lng": -118.49377295551616
+                },
+                "southwest": {
+                    "lat": 34.02738888655895,
+                    "lng": -118.49377295551616
+                }
+            }
+        },
+        "name": "Upward Bound - Family Place",
+        "rating": 4.7,
+        "vicinity": "1020 12Th St, Santa Monica"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.05114328,
+                "lng": -117.7727741
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.05114324755657,
+                    "lng": -117.77277415743642
+                },
+                "southwest": {
+                    "lat": 34.05114324755657,
+                    "lng": -117.77277415743642
+                }
+            }
+        },
+        "name": "Foothill Family Shelter",
+        "rating": 4.8,
+        "vicinity": "1501 W. 9Th St, Upland"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.05753854,
+                "lng":-118.2657894
+            },
+            "viewport": {
+                "northeast": {
+                    "lat":  34.057538506698485,
+                    "lng": -118.26578945595428
+                },
+                "southwest": {
+                    "lat":  34.057538506698485,
+                    "lng": -118.26578945595428
+                }
+            }
+        },
+        "name": "La Posada",
+        "rating": 4.8,
+        "vicinity": "375 S. Columbia Ave, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 33.78338881,
+                "lng": -118.1941278
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.78338877761312,
+                    "lng": -118.19412785611983
+                },
+                "southwest": {
+                    "lat": 33.78338877761312,
+                    "lng": -118.19412785611983
+                }
+            }
+        },
+        "name": "Long Beach Rescue Mission",
+        "rating": 4.9,
+        "vicinity": "1335 Pacific Ave, Long Beach"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.013876,
+                "lng": -118.488089
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.01387596646456,
+                    "lng": -118.48808905596074
+                },
+                "southwest": {
+                    "lat": 34.01387596646456,
+                    "lng": -118.48808905596074
+                }
+            }
+        },
+        "name": "Ocean Park Community Center - Access Center",
+        "rating": 4.9,
+        "vicinity": "503 Olympic Blvd, Santa Monica"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.013654,
+                "lng": -118.489091
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.01365396695547,
+                    "lng": -118.48909105585021
+                },
+                "southwest": {
+                    "lat": 34.01365396695547,
+                    "lng": -118.48909105585021
+                }
+            }
+        },
+        "name": "Ocean Park Community Center - Samoshel",
+        "rating": 4.8,
+        "vicinity": "505 Olympic Blvd, Santa Monica"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.197262,
+                "lng": -118.600859
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.19726196635702,
+                    "lng": -118.60085905562748
+                },
+                "southwest": {
+                    "lat": 34.19726196635702,
+                    "lng": -118.60085905562748
+                }
+            }
+        },
+        "name": "Catholic Charities Of Los Angeles - Guadalupe Community Center",
+        "rating": 4.8,
+        "vicinity": "21600 Hart St, Canoga Park"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 33.93814532,
+                "lng": -118.2566701
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.938145287207426,
+                    "lng": -118.25667015586437
+                },
+                "southwest": {
+                    "lat": 33.938145287207426,
+                    "lng": -118.25667015586437
+                }
+            }
+        },
+        "name": "Watts Labor Community Action Committee - Homeless Access Center",
+        "rating": 5,
+        "vicinity": "958 E 108Th St, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.052048,
+                "lng": -118.22259
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.052047966646626,
+                    "lng": -118.2225900559473
+                },
+                "southwest": {
+                    "lat": 34.052047966646626,
+                    "lng": -118.2225900559473
+                }
+            }
+        },
+        "name": "Jovenes Inc - La Posada Shelter",
+        "rating": 4.8,
+        "vicinity": "1320 Pleasant Ave, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 33.998086,
+                "lng": -118.478322
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.998085966856785,
+                    "lng": -118.47832205591587
+                },
+                "southwest": {
+                    "lat": 33.998085966856785,
+                    "lng": -118.47832205591587
+                }
+            }
+        },
+        "name": "St. Joseph Center",
+        "rating": 4.8,
+        "vicinity": "204 Hampton Dr, Venice"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":  34.000823,
+                "lng": -118.46643
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.00082296670241,
+                    "lng": -118.46643005619825
+                },
+                "southwest": {
+                    "lat": 34.00082296670241,
+                    "lng": -118.46643005619825
+                }
+            }
+        },
+        "name": "St. Joseph Center - Homeless Service Center",
+        "rating": 4.9,
+        "vicinity": "404 S. Lincoln Blvd, Venice"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":  33.735031,
+                "lng": -118.291424
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.7350309675664,
+                    "lng": -118.2914240562349
+                },
+                "southwest": {
+                    "lat": 33.7350309675664,
+                    "lng": -118.2914240562349
+                }
+            }
+        },
+        "name": "Harbor Interfaith Family Shelter Program",
+        "rating": 4.4,
+        "vicinity": "663 W. 10th St, San Pedro"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":  33.990383,
+                "lng": -118.278663
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.990382967190875,
+                    "lng": -118.27866305598957
+                },
+                "southwest": {
+                    "lat": 33.990382967190875,
+                    "lng": -118.27866305598957
+                }
+            }
+        },
+        "name": "Homeless Outreach Program/Integrated Care System (HOPICS)",
+        "rating": 4.2,
+        "vicinity": "5715 S. Broadway, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 33.97473866,
+                "lng": -118.3208553
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.97473862736957,
+                    "lng": -118.32085535659188
+                },
+                "southwest": {
+                    "lat": 33.97473862736957,
+                    "lng": -118.32085535659188
+                }
+            }
+        },
+        "name": "California Council For Veterans' Affairs, Inc.",
+        "rating": 4.8,
+        "vicinity": "2501 W. Florence Ave, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.011041,
+                "lng": -118.494661
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.01104096700348,
+                    "lng": -118.49466105625999
+                },
+                "southwest": {
+                    "lat": 34.01104096700348,
+                    "lng": -118.49466105625999
+                }
+            }
+        },
+        "name": "Daybreak Center",
+        "rating": 4.1,
+        "vicinity": "1614 Ocean Ave, Santa Monica"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.138749,
+                "lng": -118.148649
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.13874896713946,
+                    "lng": -118.1486490562745
+                },
+                "southwest": {
+                    "lat": 34.13874896713946,
+                    "lng": -118.1486490562745
+                }
+            }
+        },
+        "name":"Union Station - Adult Center",
+        "rating": 3.7,
+        "vicinity": "412 Raymond Ave, Pasadena"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.15796,
+                "lng": -118.133424
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.157959966391246,
+                    "lng": -118.13342405654969
+                },
+                "southwest": {
+                    "lat": 34.157959966391246,
+                    "lng": -118.13342405654969
+                }
+            }
+        },
+        "name": "Union Station Family Center",
+        "rating": 4,
+        "vicinity": "825 E. Orange Grove Blvd, Pasadena"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.12833257,
+                "lng": -118.1467965
+            },
+            "viewport": {
+                "northeast": {
+                    "lat":  34.12833253721103,
+                    "lng": -118.14679655633881
+                },
+                "southwest": {
+                    "lat":  34.12833253721103,
+                    "lng": -118.14679655633881
+                }
+            }
+        },
+        "name": "Union Station's Shelter Intake - Passageways",
+        "rating": 4.8,
+        "vicinity": "1020 S Arroyo Pkwy, Pasadena"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.046632,
+                "lng": -118.223082
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.04663196721857,
+                    "lng": -118.22308205664498
+                },
+                "southwest": {
+                    "lat": 34.04663196721857,
+                    "lng": -118.22308205664498
+                }
+            }
+        },
+        "name": "Guadalupe Homeless Project/Cem",
+        "rating": 4.9,
+        "vicinity": "171 S. Gless St, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.048871,
+                "lng": -118.227871
+            },
+            "viewport": {
+                "northeast": {
+                    "lat":  34.04887096722924,
+                    "lng": -118.2278710566423
+                },
+                "southwest": {
+                    "lat":  34.04887096722924,
+                    "lng": -118.2278710566423
+                }
+            }
+        },
+        "name": "Proyecto Pastoral At Dolores Mission",
+        "rating": 4.3,
+        "vicinity": "35 N. Mission Rd, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.098264,
+                "lng": -118.301205
+            },
+            "viewport": {
+                "northeast": {
+                    "lat":  34.09826396709801,
+                    "lng": -118.3012050564879
+                },
+                "southwest": {
+                    "lat":  34.09826396709801,
+                    "lng": -118.3012050564879
+                }
+            }
+        },
+        "name": "Hope Again",
+        "rating": 5,
+        "vicinity": "5121 Sunset Blvd, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.232022,
+                "lng": -118.469299
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.232021966013306,
+                    "lng": -118.46929905646857
+                },
+                "southwest": {
+                    "lat": 34.232021966013306,
+                    "lng": -118.46929905646857
+                }
+            }
+        },
+        "name": "North Valley Caring Services Inc",
+        "rating": 5,
+        "vicinity": "15453 Rayen St, North Hills"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.043114,
+                "lng": -118.244858
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.04311396705744,
+                    "lng": -118.24485805685819
+                },
+                "southwest": {
+                    "lat": 34.04311396705744,
+                    "lng": -118.24485805685819
+                }
+            }
+        },
+        "name": "Union Rescue Mission",
+        "rating": 4.6,
+        "vicinity": "545 S. San Pedro St, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.143963,
+                "lng": -118.028569
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.14396296718509,
+                    "lng": -118.02856905695445
+                },
+                "southwest": {
+                    "lat": 34.14396296718509,
+                    "lng": -118.02856905695445
+                }
+            }
+        },
+        "name":  "Arcadia Welfare And Thrift Shop",
+        "rating": 4.6,
+        "vicinity": "323 N. First St, Arcadia"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.043512,
+                "lng": -118.243105
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.043511967029886,
+                    "lng": -118.24310505684893
+                },
+                "southwest": {
+                    "lat": 34.043511967029886,
+                    "lng": -118.24310505684893
+                }
+            }
+        },
+        "name": "Emmanuel Baptist Rescue Mission",
+        "rating": 4.6,
+        "vicinity": "530 E. Fifth St, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 33.894523,
+                "lng": -118.345106
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.894522967204814,
+                    "lng": -118.34510605585588
+                },
+                "southwest": {
+                    "lat":33.894522967204814,
+                    "lng": -118.34510605585588
+                }
+            }
+        },
+        "name": "House Of Yahweh",
+        "rating": 5,
+        "vicinity": "4046 W. Marine Ave, Lawndale"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.213355,
+                "lng": -118.388056
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.213354966333476,
+                    "lng": -118.3880560560194
+                },
+                "southwest": {
+                    "lat": 34.213354966333476,
+                    "lng": -118.3880560560194
+                }
+            }
+        },
+        "name": "L A Family Housing Corporation",
+        "rating": 4.9,
+        "vicinity": "7843 Lankershim Blvd, North Hollywood"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":  33.737685,
+                "lng": -118.286924
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.73768496726683,
+                    "lng": -118.28692405620413
+                },
+                "southwest": {
+                    "lat": 33.73768496726683,
+                    "lng": -118.28692405620413
+                }
+            }
+        },
+        "name": "Rainbow Services, Ltd.",
+        "rating": 4.4,
+        "vicinity": "453 W. 7th St, San pedro"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":  34.703081,
+                "lng": -118.137546
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.70308096589448,
+                    "lng": -118.13754605750229
+                },
+                "southwest": {
+                    "lat": 34.70308096589448,
+                    "lng": -118.13754605750229
+                }
+            }
+        },
+        "name": "Antelope Valley Domestic Violence Council - Homeless Solutions Access Center",
+        "rating": 4.2,
+        "vicinity": "45134 N. Sierra Hwy, Lancaster"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":  34.044049,
+                "lng": -118.240389
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.04404896709811,
+                    "lng": -118.24038905595074
+                },
+                "southwest": {
+                    "lat": 34.04404896709811,
+                    "lng": -118.24038905595074
+                }
+            }
+        },
+        "name": "Los Angeles Centers For Alcohol And Drug Abuse - Homeless Outreach Project",
+        "rating": 4.8,
+        "vicinity": "612 E. 4th St, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":  33.73937771,
+                "lng": -118.2880824
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.73937767762515,
+                    "lng": -118.28808245538059
+                },
+                "southwest": {
+                    "lat":33.73937767762515,
+                    "lng": -118.28808245538059
+                }
+            }
+        },
+        "name": "Joint Efforts Inc",
+        "rating": 4.1,
+        "vicinity": "505 S Pacific Ave, San Pedro"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":34.70293703,
+                "lng":  -118.137311
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.702936995994015,
+                    "lng": -118.13731105769469
+                },
+                "southwest": {
+                    "lat": 34.702936995994015,
+                    "lng": -118.13731105769469
+                }
+            }
+        },
+        "name":"Grace Resources Inc",
+        "rating": 3.7,
+        "vicinity": "45134 Sierra Hwy, Lancaster"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.074903,
+                "lng": -118.09114
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.07490296654775,
+                    "lng":  -118.09114005712635
+                },
+                "southwest": {
+                    "lat": 34.07490296654775,
+                    "lng":  -118.09114005712635
+                }
+            }
+        },
+        "name":"St. Anthony's Christian Service",
+        "rating": 4,
+        "vicinity": "1901 S. San Gabriel Blvd, San Gabriel"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.224698,
+                "lng":-118.569239
+            },
+            "viewport": {
+                "northeast": {
+                    "lat":  34.22469796679016,
+                    "lng":  -118.56923905602073
+                },
+                "southwest": {
+                    "lat":  34.22469796679016,
+                    "lng":  -118.56923905602073
+                }
+            }
+        },
+        "name": "Redeemer Lutheran Outreach",
+        "rating": 4.8,
+        "vicinity": "20025 Chase St, Winnetka"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.099588,
+                "lng":  -118.334459
+            },
+            "viewport": {
+                "northeast": {
+                    "lat":34.09958796717354,
+                    "lng": -118.33445905674928
+                },
+                "southwest": {
+                    "lat": 34.09958796717354,
+                    "lng": -118.33445905674928
+                }
+            }
+        },
+        "name": "Social Services At Blessed Sacrament Inc",
+        "rating": 4.9,
+        "vicinity": "6636 Selma Ave, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.18247,
+                "lng": -118.326021
+            },
+            "viewport": {
+                "northeast": {
+                    "lat":  34.18246996629904,
+                    "lng": -118.32602105589216
+                },
+                "southwest": {
+                    "lat":  34.18246996629904,
+                    "lng":-118.32602105589216
+                }
+            }
+        },
+        "name": "Burbank Temporary Aid Center",
+        "rating": 4.3,
+        "vicinity": "1304 W. Burbank Blvd, Burbank"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":  34.136624,
+                "lng": -118.258008
+            },
+            "viewport": {
+                "northeast": {
+                    "lat":  34.13662396714278,
+                    "lng": -118.25800805648775
+                },
+                "southwest": {
+                    "lat":  34.13662396714278,
+                    "lng": -118.25800805648775
+                }
+            }
+        },
+        "name":  "Salvation Army Corps Community Center - Glendale",
+        "rating": 5,
+        "vicinity": "801 S. Central, Glendale"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.014532,
+                "lng": -118.492416
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.01453196697771,
+                    "lng": -118.49241605588277
+                },
+                "southwest": {
+                    "lat": 34.01453196697771,
+                    "lng": -118.49241605588277
+                }
+            }
+        },
+        "name": "Salvation Army Corps Community Center - Santa Monica",
+        "rating": 5,
+        "vicinity": "1533 4th St, Santa Monica"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 33.895635,
+                "lng": -118.215217
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 33.8956349674641,
+                    "lng": -118.21521705668916
+                },
+                "southwest": {
+                    "lat":33.8956349674641,
+                    "lng": -118.21521705668916
+                }
+            }
+        },
+        "name":  "Salvation Army Corps Community Center - Compton",
+        "rating": 4.6,
+        "vicinity": "736 E. Compton Blvd, Compton"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":  34.082334,
+                "lng": -118.031805
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.082333967258485,
+                    "lng": -118.03180505686282
+                },
+                "southwest": {
+                    "lat": 34.082333967258485,
+                    "lng": -118.03180505686282
+                }
+            }
+        },
+        "name": "Catholic Charities Of Los Angeles - San Juan Diego Center",
+        "rating": 4.6,
+        "vicinity": "4171 Tyler Ave, El Monte"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.033928,
+                "lng": -118.269501
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.033927966671826,
+                    "lng": -118.26950105655922
+                },
+                "southwest": {
+                    "lat": 34.033927966671826,
+                    "lng": -118.26950105655922
+                }
+            }
+        },
+        "name":  "St. Francis Center - Los Angeles",
+        "rating": 4.6,
+        "vicinity": "1835 S. Hope St, Los Angeles"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 34.042257,
+                "lng": -118.245505
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 34.04225696650697,
+                    "lng": -118.2455050567953
+                },
+                "southwest": {
+                    "lat":34.04225696650697,
+                    "lng": -118.2455050567953
+                }
+            }
+        },
+        "name": "Midnight Mission",
+        "rating": 5,
+        "vicinity": "601 S. San Pedro St, Los Angeles"
+    }
+]

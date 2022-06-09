@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Accommodations App</string>
+
+<!--    <string name="title_activity_maps">MapsActivity</string>-->
+    <string name="google_maps_api_key">AIzaSyCdOgJYW27MKQkVT7MwBypoEhM_iFPXpos</string>
+
+    <string name="edit_text_hint_title">Title</string>
+    <string name="edit_text_hint_description">Description</string>
+    <string name="edit_text_hint_date">Date</string>
+    <string name="edit_text_hint_location">Location</string>
+    <string name="text_add_image">ADD IMAGE</string>
+    <string name="btn_text_save">SAVE</string>
+
+    <string name="note_text_no_happy_places_found_yet_kindly_add_one">Please add your favourite Shelter/resource.</string>
+    <string name="image_content_description">image</string>
+
+    <string name="btn_text_view_on_map">VIEW ON MAP</string>
+    <string name="add_place_select_current_location_text">SELECT CURRENT LOCATION</string>
+
+   <string name="title_activity_maps">Saved Resources</string>
+    <string name="housing_is_a_human_right">HOUSING IS A HUMAN RIGHT</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="lat_long_snippet">Lat: %1$.5f, Long: %2$.5f</string>
+    <string name="dropped_pin">Dropped Pin</string>
+    <string name="poi">poi</string>
+    <string name="zoom">15f</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+</resources>
