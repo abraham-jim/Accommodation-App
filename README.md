@@ -1,7 +1,7 @@
 # Accommodations App
 [Application Pitchdeck Link](https://www.canva.com/design/DAE10qHFRqg/GiYz2sST9doFQ1Z8DedP9A/view?utm_content=DAE10qHFRqg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-![git-gifAccom-app](https://user-images.githubusercontent.com/73762759/172766197-6aabbcfe-247d-44ea-86f5-55296fd49171.mp4)
+https://user-images.githubusercontent.com/73762759/172766197-6aabbcfe-247d-44ea-86f5-55296fd49171.mp4
 
 
 ## Overview/Reason 
