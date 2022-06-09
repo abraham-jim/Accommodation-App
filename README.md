@@ -69,14 +69,4 @@ Shelter API: https://geohub.lacity.org/datasets/lacounty::homeless-shelters-and-
 ![High Level](https://user-images.githubusercontent.com/61915385/151883450-7c212cfa-fa34-4e4c-9948-aa63c740ee1e.PNG)
 
 
-## Demo
-> put demo here 
 
-
-# Dream Team Credits 
-
-| Names         |                     Package                                |
-| ------------- |:----------------------------------------------------------:| 
-| Natalie       | Navigation Component/ Activity/ Repos/ UI/UX               | 
-| Abraham       | Retrofit/ Room database/REST Web Services/ Images UI/UX    | 
-| Ahmed         | Fragments/ API/ RecyclerView/ Packages/ UI/UX              | 
